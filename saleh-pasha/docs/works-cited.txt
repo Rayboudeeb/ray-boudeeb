@@ -1,0 +1,13 @@
+Works Cited:
+
+IBM Cloud Education. "What Is Machine Learning?" IBM, www.ibm.com/topics/machine-learning.
+
+McCarthy, John, et al. "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence." Dartmouth College, 31 Aug. 1955.
+
+MIT Sloan Management Review. "The Business of Artificial Intelligence and the 'Black Box' Problem." Massachusetts Institute of Technology, 2020.
+
+Stanford Institute for Human-Centered Artificial Intelligence (HAI). "Artificial Intelligence Definitions and Foundation Models." Stanford University, 2021.
+
+Strang, Gilbert. "18.065: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning." MIT OpenCourseWare, Massachusetts Institute of Technology, 2018.
+
+Vaswani, Ashish, et al. "Attention Is All You Need." Advances in Neural Information Processing Systems, vol. 30, Curran Associates, Inc., 2017.
